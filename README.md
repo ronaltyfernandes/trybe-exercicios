@@ -1,2 +1,2 @@
 # trybe-exercicios
-um repositório para guardar exercicios feitos na trybe, começando pelos feitos durante o modulo de back-end. A ideia é que eu possa revisitar esses conteúdos para me relembrar e facilitar projetos no futuro.
+Este é um repositório para guardar exercícios feitos na Trybe, começando pelos feitos durante o módulo de back-end. A ideia é que eu possa revisitar esses conteúdos para me lembrar e facilitar projetos no futuro. Além disso, como é de se esperar, pretendo utilizar este repositório como uma forma de praticar e demonstrar minha prática, tanto para mim quanto para quem venha a se interessar.

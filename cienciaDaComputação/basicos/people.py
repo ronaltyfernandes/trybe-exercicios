@@ -1,4 +1,4 @@
-import area
+import cienciaDaComputação.basicos.area as area
 
 
 PEOPLE_PER_SQUARE_METER = 2  # numero de pessoas por metro quadrado em média

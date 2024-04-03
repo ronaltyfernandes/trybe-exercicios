@@ -3,6 +3,7 @@ def maior_numero(num1, num2):
         return num1
     return num2
   
+
 def media(lista): 
     sum = 0
     for num in lista:
@@ -33,5 +34,6 @@ def menor_numero(numbers):
             smaller = number
     return smaller
     
+
 def maior_numero_lista(lista):
     return max(lista)
